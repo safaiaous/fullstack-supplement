@@ -87,5 +87,25 @@
 ### Data Visualization with D3(5 hours)
 
 ### JSON APIs and AJAX(2 hours)
+- [AJAX Crash Course (Vanilla JavaScript)](https://www.youtube.com/watch?v=82hnvUYY6QA)
+- [Fetch API Introduction](https://www.youtube.com/watch?v=Oive66jrwBs)
+- [JSON Crash Course](https://www.youtube.com/watch?v=wI1CWzNtE-M)
 
 ### Data Visualization Projects(150 hours)
+
+
+## Apis And Microservices
+
+
+###Managing Packages with npm(5 hours)
+- [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)
+- [Yarn Package Manager Crash Course](https://www.youtube.com/watch?v=g9_6KmiBISk)
+
+###Basic Node and Express(5 hours)
+- [Node.js Tutorial For Absolute Beginners](https://www.youtube.com/watch?v=U8XF6AFGqlc)
+- [NodeJS + ExpressJS Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQmHbpKMARP04F344zYRX91I)
+- [Setup environment variables with Node.js + Dotenv Tutorial](https://www.youtube.com/watch?v=zDup0I2VGmk)
+- [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs)
+
+###MongoDB and Mongoose(5 hours)
+- [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
