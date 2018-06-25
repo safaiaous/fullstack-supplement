@@ -64,21 +64,21 @@
 ## Front End Libraries
 
 
-#####Bootstrap
+##### Bootstrap
 - [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8&feature=youtu.be)
 
-#####jQuery
+##### jQuery
 
-#####Sass
+##### Sass
 
-#####React
+##### React
 - [[2017] React Tutorial for Beginners - Codepen.io](https://www.youtube.com/watch?v=ZnRFerIP8aA)
 
-#####Redux
+##### Redux
 
-#####React and Redux
+##### React and Redux
 
-#####Front End Libraries Projects
+##### Front End Libraries Projects
 
 
 ## Data Visualization
@@ -97,15 +97,15 @@
 ## Apis And Microservices
 
 
-#####Managing Packages with npm
+##### Managing Packages with npm
 - [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)
 - [Yarn Package Manager Crash Course](https://www.youtube.com/watch?v=g9_6KmiBISk)
 
-#####Basic Node and Express
+##### Basic Node and Express
 - [Node.js Tutorial For Absolute Beginners](https://www.youtube.com/watch?v=U8XF6AFGqlc)
 - [NodeJS + ExpressJS Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQmHbpKMARP04F344zYRX91I)
 - [Setup environment variables with Node.js + Dotenv Tutorial](https://www.youtube.com/watch?v=zDup0I2VGmk)
 - [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs)
 
-#####MongoDB and Mongoose
+##### MongoDB and Mongoose
 - [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
